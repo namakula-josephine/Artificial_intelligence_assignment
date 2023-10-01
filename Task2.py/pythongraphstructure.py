@@ -1,3 +1,8 @@
+# NAMAKULA JOSEPHINE
+# 2200703590
+# 22/U/3590/EVE
+
+
 # Define the graph as a dictionary of sets
 graph = {
     'S': {('A', 3), ('B', 1)},
@@ -17,3 +22,9 @@ heuristics = {
     'D': 1,
     'G': 0
 }
+
+
+
+# NAMAKULA JOSEPHINE
+# 2200703590
+# 22/U/3590/EVE
